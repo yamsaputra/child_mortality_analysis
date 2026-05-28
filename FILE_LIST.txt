@@ -1,0 +1,12 @@
+README.md
+notebooks/00_full_project_original.ipynb
+notebooks/01_stage_1_problem_definition.ipynb
+notebooks/02_stage_2_data_collection.ipynb
+notebooks/03_stage_3_data_cleaning_preprocessing.ipynb
+notebooks/04_stage_4_eda.ipynb
+notebooks/05_stage_5_feature_pool_construction.ipynb
+notebooks/06_stage_6_data_splitting.ipynb
+notebooks/07_stage_7_feature_selection_final_dataset.ipynb
+notebooks/08_stage_8_9_model_selection_training.ipynb
+notebooks/09_stage_10_evaluation_tuning.ipynb
+notebooks/10_stage_11_12_discussion_conclusion.ipynb
